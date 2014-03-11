@@ -94,6 +94,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://dogepool.servehttp.com
 
 ### P2Pool nodes (hash rate shared by all nodes)
+- [http://www.wowmuchpool.com/](http://www.wowmuchpool.com/)
 - http://shitpost.asia/
 - http://doge.crypto49er.com/
 - http://doge-eu.crypto49er.com/
