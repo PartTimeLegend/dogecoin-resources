@@ -1,4 +1,7 @@
 # Dogecoin Resources
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a79a17db2664960b1b37b20c8297721)](https://www.codacy.com/app/PartTimeLegend/dogecoin-resources?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/dogecoin-resources&utm_campaign=badger)
+
 A community driven list of Dogecoin resources to be listed on dogecoin.com
 
 For any suggestions, please submit a pull request. Additions should be appended to end of existing lists.
